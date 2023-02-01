@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'nice-river-9ec09cf555fe4276982c6e9e6b883851'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CDE18848DA2D406AA7EB2EBE5C56A1D4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DEFEED5EDE394C2D97023DA255224C70 }}
           package: .
